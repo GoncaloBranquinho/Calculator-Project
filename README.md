@@ -1,2 +1,2 @@
-# Calculator-Project
+# Basic Calculator
 Calculator programmed with C.
